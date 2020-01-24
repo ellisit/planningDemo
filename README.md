@@ -11,3 +11,9 @@ Un autre type represente la reservation d'un client autre, qui est visible mais 
 Le dernier type represente un rendez vous classique que l'on vient de faire.
 
 le calendrier a différente vue, par jour, mois, année , jour ouvré de la semaine. On peut aussi voir les planning par salon différent.
+
+lancement des plateformes 
+
+ng serve pour le client 
+
+node index.js pour le serveur 
